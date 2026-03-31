@@ -12,3 +12,6 @@ dependencies:
   - pip:
       - mlflow==3.3.2
       - wandb==0.24.0
+
+  - omegaconf
+  - mlflow-skinny
